@@ -6,3 +6,5 @@ def joke():
     else:
         print("joke")
 joke()
+
+add()
