@@ -4,7 +4,7 @@ def joke():
     if open<=1:
         print(" ")
     else:
-        print("joke")
+        print("joke haha")
 joke()
 
 add()
